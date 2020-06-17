@@ -19,8 +19,8 @@ function sayMyName() {
   // fix the code in here:
   var name = "Cricky";
 
-  function sayMy(name) {
-    var name = "Kristin";
+  function sayMy() {
+    name = "Kristin";
     console.log("name");
   }
   sayMy();
