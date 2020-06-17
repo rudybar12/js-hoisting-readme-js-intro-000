@@ -7,10 +7,8 @@ function callMe() {
   return lyric;
 }
 
-
 function crazy() {
   // fix the code in here:
-
   var thisIsCrazy = function (){
     console.log("hey!!!")
   }
@@ -20,10 +18,9 @@ function crazy() {
 function sayMyName() {
   // fix the code in here:
   var name = "Cricky";
-
   function sayMy() {
     console.log("name");
-    var name = "Kristin"
+    var name = "Kristin";
   }
   sayMyName();
 }
